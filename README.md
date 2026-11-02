@@ -49,7 +49,8 @@ This project was created to:
 - basic SEO metadata and page titles
 - static website deployment support
 
----
+## WireFrames
+
 
 ## Tech Stack
 
