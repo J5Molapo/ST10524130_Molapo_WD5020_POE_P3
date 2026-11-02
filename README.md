@@ -49,7 +49,16 @@ This project was created to:
 - basic SEO metadata and page titles
 - static website deployment support
 
----
+## Wireframes
+Low fidelity
+![Home](Images_Resources/home.png)
+![Enquiiry](Images_Resources/enquiry.png)
+![Contact](Images_Resources/contact.png)
+![About](Images_Resources/about.png)
+![Products](Images_Resources/products.png)
+
+High Fidelity
+
 
 ## Tech Stack
 
