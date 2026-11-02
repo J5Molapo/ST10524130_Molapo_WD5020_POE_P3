@@ -299,18 +299,18 @@ The following sources were consulted for language documentation and the project�
 
 ### JavaScript
 
-1. W3Schools. “JavaScript Tutorial.” Available at: https://www.w3schools.com/js/ (Accessed: 2 November 2026).
-2. MDN Web Docs. “JavaScript.” Available at: https://developer.mozilla.org/en-US/docs/Web/JavaScript (Accessed: 2 November 2026).
+1. W3Schools. “JavaScript Tutorial.” Available at: https://www.w3schools.com/js/ (Accessed: 27 October 2026).
+2. MDN Web Docs. “JavaScript.” Available at: https://developer.mozilla.org/en-US/docs/Web/JavaScript (Accessed: 28 October 2026).
 
 ### PowerShell
 
-3. Microsoft Learn. “PowerShell Documentation.” Available at: https://learn.microsoft.com/en-us/powershell/ (Accessed: 2 November 2026).
-4. W3Schools. “PowerShell Tutorial.” Available at: https://www.w3schools.com/ (Accessed: 2 November 2026). *Note: W3Schools does not appear to provide a dedicated PowerShell tutorial; Microsoft Learn is the primary PowerShell reference.*
+3. Microsoft Learn. “PowerShell Documentation.” Available at: https://learn.microsoft.com/en-us/powershell/ (Accessed: 1 November 2026).
+4. W3Schools. “PowerShell Tutorial.” Available at: https://www.w3schools.com/ (Accessed: 1 November 2026). *Note: W3Schools does not appear to provide a dedicated PowerShell tutorial; Microsoft Learn is the primary PowerShell reference.*
 
 ### Design and Wireframes
 
-5. Figma. “High-Fidelity Website Wireframes.” Available at: https://www.figma.com/make/fGG61rkcbPqvwlxp0rNrBM/High-Fidelity-Website-Wireframes?code-node-id=0-6&p=f&t=KFisf9n6qly4JaAu-0&fullscreen=1 (Accessed: 2 November 2026).
-6. Figma. “Trailblazer Wireframes.” Available at: https://www.figma.com/make/gwiNeaYAjFPjsiS2ZX6aK8/Trailblazer-Wireframes?code-node-id=0-6&p=f&t=YpSOkUTPMWkj9JFn-0&fullscreen=1 (Accessed: 2 November 2026).
+5. Figma. “High-Fidelity Website Wireframes.” Available at: https://www.figma.com/make/fGG61rkcbPqvwlxp0rNrBM/High-Fidelity-Website-Wireframes?code-node-id=0-6&p=f&t=KFisf9n6qly4JaAu-0&fullscreen=1 
+6. Figma. “Trailblazer Wireframes.” Available at: https://www.figma.com/make/gwiNeaYAjFPjsiS2ZX6aK8/Trailblazer-Wireframes?code-node-id=0-6&p=f&t=YpSOkUTPMWkj9JFn-0&fullscreen=1 
 
 ---
 
