@@ -50,14 +50,14 @@ This project was created to:
 - static website deployment support
 
 ## Wireframes
-Low fidelity
+### Low Fidelity
 ![Home](Images_Resources/home.png)
-![Enquiiry](Images_Resources/enquiry.png)
+![Enquiry](Images_Resources/enquiry.png)
 ![Contact](Images_Resources/contact.png)
 ![About](Images_Resources/about.png)
 ![Products](Images_Resources/products.png)
 
-High Fidelity
+### High Fidelity
 
 
 ## Tech Stack
