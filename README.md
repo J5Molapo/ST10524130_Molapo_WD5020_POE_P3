@@ -58,7 +58,8 @@ This project was created to:
 ![Products](Images_Resources/products.png)
 
 ### High Fidelity
-![Uploading trailblazer-products-Bq3JO61g.png…]()
+<img width="1440" height="5348" alt="trailblazer-products-Bq3JO61g" src="https://github.com/user-attachments/assets/89291d38-255f-4847-82aa-f96b530e6a56" />
+
 <img width="1440" height="1364" alt="trailblazer-home-CPO6VhlT" src="https://github.com/user-attachments/assets/c652bae6-efdb-419c-bf8a-20a67b1753ac" />
 <img width="1440" height="1278" alt="trailblazer-enquiry-C7t0c2TO" src="https://github.com/user-attachments/assets/656e16e8-af0e-489b-81d5-0d66970bce1b" />
 <img width="1440" height="1352" alt="trailblazer-contact-BhUgkhq6" src="https://github.com/user-attachments/assets/24a9d9d5-adf0-4d23-a96f-ba01987c378a" />
