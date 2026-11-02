@@ -6,6 +6,8 @@
     <meta name="description" content="Send Trailblazer Esports Arena an enquiry about memberships, coaching, tournaments, and events.">
     <meta name="keywords" content="Trailblazer enquiry, esports memberships, gaming coaching, tournament questions, arena events">
     <meta name="robots" content="index, follow">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Trailblazer Esports Arena">
     <meta property="og:title" content="Enquiry | Trailblazer Esports Arena">
     <meta property="og:description" content="Ask Trailblazer Esports Arena about memberships, coaching, tournaments, and events.">
     <meta property="og:image" content="Images_Resources/Arena.png">
@@ -32,19 +34,22 @@
     <main>
       <h1>Enquiry</h1>
       <p>If you have questions about memberships, training, or events, send us an enquiry and we will respond shortly.</p>
-      <form action="#" method="post">
+      <form id="enquiry-form" action="#" method="post">
         <label for="name">Name</label>
-        <input id="name" name="name" type="text" autocomplete="name" required>
+        <input id="name" name="name" type="text" autocomplete="name" minlength="2" maxlength="80" required>
         <label for="email">Email</label>
-        <input id="email" name="email" type="email" autocomplete="email" required>
+        <input id="email" name="email" type="email" autocomplete="email" maxlength="254" required>
         <label for="phone">Phone</label>
         <input id="phone" name="phone" type="tel" autocomplete="tel" placeholder="Optional">
         <label for="subject">Subject</label>
-        <input id="subject" name="subject" type="text" required>
+        <input id="subject" name="subject" type="text" minlength="3" maxlength="120" required>
         <label for="message">Message</label>
-        <textarea id="message" name="message" rows="6" required></textarea>
+        <textarea id="message" name="message" rows="6" minlength="10" maxlength="1200" required aria-describedby="message-count"></textarea>
+        <p id="message-count" class="field-hint" aria-live="polite">0 / 1200 characters</p>
         <button type="submit">Send Enquiry</button>
+        <p id="enquiry-status" class="form-status" role="status" aria-live="polite"></p>
       </form>
+      <p class="form-note">This website currently checks your details in the browser; enquiry delivery requires a connected form service.</p>
       <p>Need help before submitting? Visit our <a href="Contact.html">contact page</a> for arena details.</p>
     </main>
     <footer class="site-footer">
@@ -53,6 +58,7 @@
         <a href="index.html">Home</a><a href="Products.html">Products</a><a href="Enquiry.html">Enquiry</a><a href="Contact.html">Contact</a>
       </nav>
     </footer>
+    <script src="JS/site-enhancements.js" defer></script>
     <script src="JS/page-transition.js" defer></script>
   </body>
 </html>

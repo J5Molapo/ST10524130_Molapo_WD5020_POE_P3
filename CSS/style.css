@@ -217,6 +217,71 @@ input::placeholder, textarea::placeholder { color: var(--muted); }
 textarea { resize: vertical; }
 form button { justify-self: start; margin-top: 0.8rem; }
 
+input[aria-invalid="true"], textarea[aria-invalid="true"] {
+  border-color: var(--coral);
+}
+
+.field-error {
+  color: #ffad9e;
+  font-size: 0.95rem;
+}
+
+.field-error:empty { display: none; }
+
+.field-hint, .form-status, .form-note {
+  margin: 0.15rem 0 0;
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+.form-status:not(:empty) {
+  padding: 0.75rem;
+  border-left: 3px solid var(--mint);
+  background: rgba(137, 240, 208, 0.08);
+  color: var(--paper);
+}
+
+.membership-estimator {
+  margin: 2rem 0;
+  padding: 1.25rem 1.5rem;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: rgba(10, 14, 15, 0.45);
+}
+
+.membership-estimator h2 { margin-top: 0; }
+
+.estimator-controls {
+  display: grid;
+  max-width: 520px;
+  grid-template-columns: minmax(130px, 1fr) minmax(100px, 0.7fr);
+  align-items: center;
+  gap: 0.55rem 1rem;
+}
+
+.estimator-controls select {
+  min-height: 46px;
+  padding: 0.65rem 0.8rem;
+  border: 1px solid rgba(183, 255, 232, 0.3);
+  border-radius: 6px;
+  background: rgba(7, 11, 12, 0.65);
+  color: var(--paper);
+  font: inherit;
+}
+
+.estimator-total {
+  color: var(--mint-bright);
+  font-family: "Oxanium", "Trebuchet MS", sans-serif;
+  font-weight: 700;
+}
+
+.copy-phone {
+  min-height: 36px;
+  margin-left: 0.45rem;
+  padding: 0.4rem 0.75rem;
+  font-size: 0.78rem;
+}
+
 .site-footer {
   display: flex;
   flex-wrap: wrap;
