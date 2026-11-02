@@ -3,43 +3,58 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="description" content="Find Trailblazer Esports Arena contact details, opening hours, and directions to the Johannesburg venue.">
+    <meta name="description" content="Send Trailblazer Esports Arena an enquiry about memberships, coaching, tournaments, and events.">
+    <meta name="keywords" content="Trailblazer enquiry, esports memberships, gaming coaching, tournament questions, arena events">
     <meta name="robots" content="index, follow">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Trailblazer Esports Arena">
-    <meta property="og:title" content="Contact and Visit Trailblazer Esports Arena">
-    <meta property="og:description" content="Call the arena, check opening hours, or get directions to Trailblazer Esports Arena in Sandton, Johannesburg.">
-    <meta property="og:image" content="Images_Resources/Contact%20us.jpg">
+    <meta property="og:title" content="Enquiry | Trailblazer Esports Arena">
+    <meta property="og:description" content="Ask Trailblazer Esports Arena about memberships, coaching, tournaments, and events.">
+    <meta property="og:image" content="Images_Resources/Arena.png">
     <meta name="twitter:card" content="summary_large_image">
-    <title>Contact and Directions | Trailblazer Esports Arena</title>
+    <title>Enquiry | Trailblazer Esports Arena</title>
+    <link rel="icon" type="image/png" href="Images_Resources/TrailBlazer Logo.png">
     <link rel="stylesheet" href="CSS/style.css">
   </head>
   <body>
     <header class="site-header">
       <nav class="main-nav" aria-label="Main navigation">
         <a class="brand" href="index.html" aria-label="Trailblazer home">
-          <img src="Images_Resources/TrailBlazer Logo.png" alt="TrailBlazer Logo" />
+          <span class="brand-mark">TB</span>
+          <span class="brand-wordmark">
+            <span>Trailblazer</span>
+            <span>Esports</span>
+          </span>
         </a>
         <div class="nav-links">
           <a href="index.html">Home</a>
           <a href="About.html">About</a>
           <a href="Products.html">Products</a>
-          <a href="Enquiry.html">Enquiry</a>
+          <a class="active" href="Enquiry.html">Enquiry</a>
           <a href="Contact.html">Contact</a>
         </div>
       </nav>
     </header>
     <main>
-      <h1>Contact Trailblazer Esports Arena</h1>
-      <img src="Images_Resources/Contact us.jpg" alt="Trailblazer esports arena" style="max-width: 100%; height: auto; display: block; margin: 1rem 0;">
-      <p>Client: Trailblazer Esports Arena</p>
-      <p>Owner / Manager: Jeffery Yelnats</p>
-      <p>Phone: <a href="tel:+27124528690">+27 12 452 8690</a> <button class="copy-phone" type="button" data-copy-phone="+27 12 452 8690">Copy number</button></p>
-      <p id="phone-copy-status" role="status" aria-live="polite"></p>
-      <p>Email: <a href="Enquiry.html">Send us a message through the enquiry form</a></p>
-      <p>Location: <a href="https://www.google.com/maps/search/?api=1&amp;query=Trailblazer+Esports+Arena%2C+21+Victory+Road%2C+Sandton%2C+Johannesburg%2C+2196%2C+South+Africa" target="_blank" rel="noopener noreferrer">21 Victory Road, Sandton, Johannesburg, 2196, South Africa</a></p>
-      <p>Business Hours: Mon–Sun 10:00 — 22:00</p>
-      <p>For membership sign-ups, coaching bookings, or tournament enquiries, please use the <a href="Enquiry.html">Enquiry</a> form.</p>
+      <h1>Enquiry</h1>
+      <p>If you have questions about memberships, training, or events, send us an enquiry and we will respond shortly.</p>
+      <form id="enquiry-form" action="#" method="post">
+        <label for="name">Name</label>
+        <input id="name" name="name" type="text" autocomplete="name" minlength="2" maxlength="80" required>
+        <label for="email">Email</label>
+        <input id="email" name="email" type="email" autocomplete="email" maxlength="254" required>
+        <label for="phone">Phone</label>
+        <input id="phone" name="phone" type="tel" autocomplete="tel" placeholder="Optional">
+        <label for="subject">Subject</label>
+        <input id="subject" name="subject" type="text" minlength="3" maxlength="120" required>
+        <label for="message">Message</label>
+        <textarea id="message" name="message" rows="6" minlength="10" maxlength="1200" required aria-describedby="message-count"></textarea>
+        <p id="message-count" class="field-hint" aria-live="polite">0 / 1200 characters</p>
+        <button type="submit">Send Enquiry</button>
+        <p id="enquiry-status" class="form-status" role="status" aria-live="polite"></p>
+      </form>
+      <p class="form-note">This website currently checks your details in the browser; enquiry delivery requires a connected form service.</p>
+      <p>Need help before submitting? Visit our <a href="Contact.html">contact page</a> for arena details.</p>
     </main>
     <footer class="site-footer">
       <p>&copy; 2026 Trailblazer Esports Arena&trade;. All rights reserved.</p>
