@@ -58,12 +58,13 @@ This project was created to:
 ![Products](Images_Resources/products.png)
 
 ### High Fidelity
-<img width="1440" height="1284" alt="trailblazer-about-Dh-oqYbC" src="https://github.com/user-attachments/assets/0cd2b653-2d3b-44e6-a983-dbae777c6aab" />
-<img width="1440" height="1284" alt="trailblazer-about-Dh-oqYbC" src="https://github.com/user-attachments/assets/2ca7c1fe-34ad-4a0e-9b18-14e21676a5c0" />
-<img width="1440" height="1284" alt="trailblazer-about-Dh-oqYbC" src="https://github.com/user-attachments/assets/23fe16f2-8739-4e29-8032-6349a62b02aa" />
-<img width="1440" height="1352" alt="trailblazer-contact-BhUgkhq6" src="https://github.com/user-attachments/assets/0ab8c82d-92b4-43c5-82b4-48f16005e20e" />
-<img width="1440" height="1278" alt="trailblazer-enquiry-C7t0c2TO" src="https://github.com/user-attachments/assets/ad919dc8-72d4-419b-8e94-7c66e0d919de" />
-<img width="1440" height="1364" alt="trailblazer-home-CPO6VhlT" src="https://github.com/user-attachments/assets/c2bfc495-d7c6-4a41-9f14-cf1acaa1f826" />
+![Uploading trailblazer-products-Bq3JO61g.png…]()
+<img width="1440" height="1364" alt="trailblazer-home-CPO6VhlT" src="https://github.com/user-attachments/assets/c652bae6-efdb-419c-bf8a-20a67b1753ac" />
+<img width="1440" height="1278" alt="trailblazer-enquiry-C7t0c2TO" src="https://github.com/user-attachments/assets/656e16e8-af0e-489b-81d5-0d66970bce1b" />
+<img width="1440" height="1352" alt="trailblazer-contact-BhUgkhq6" src="https://github.com/user-attachments/assets/24a9d9d5-adf0-4d23-a96f-ba01987c378a" />
+<img width="1440" height="1284" alt="trailblazer-about-Dh-oqYbC" src="https://github.com/user-attachments/assets/4a587108-e9b6-4da2-b5ef-dce9a33626e9" />
+
+
 
 
 
